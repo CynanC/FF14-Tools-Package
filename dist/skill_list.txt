@@ -1,0 +1,16 @@
+{
+	"黑骑": 
+	[
+		{"skill_name": "伤害连-暗技-1", "skill_sequence": ["1", 2.4, "3", 1, "ctrl+`", 1.4, "ctrl+3", 2.4], "bind_key": "F1"}, 
+		{"skill_name": "伤害连-暗技-2", "skill_sequence": ["1", 1, "ctrl+`", 1.5, "3", 1, "ctrl+`", 1.5, "ctrl+3", 2.5], "bind_key": "F2"}, 
+		{"skill_name": "仇恨连-暗技", "skill_sequence": ["1", 2.5, "2", 1, "ctrl+`", 1.5, "ctrl+2"], "bind_key": "F3"}
+	], 
+	"武士": 
+	[
+		{"skill_name": "雪", "skill_sequence": ["1",2.4,"ctrl+1",2.4], "bind_key": "F1"}, 
+		{"skill_name": "月", "skill_sequence": ["1",2.4,"2",2.4,"ctrl+2",2.4], "bind_key": "F2"},
+		{"skill_name": "花", "skill_sequence": ["1",2.4,"3",2.4,"ctrl+3",2.4], "bind_key": "F3"},
+		{"skill_name": "雪月花", "skill_sequence": ["1",2.4,"ctrl+1",2.4,"1",2.4,"2",2.4,"ctrl+2",2.4,"1",2.4,"3",2.4,"ctrl+3",2.4], "bind_key": "F4"},
+		{"skill_name": "起手", "skill_sequence": ["1",2.4,"3",2.4,"ctrl+3",2.4,"1",2.4,"2",2.4,"alt+1",1.7,"1"], "bind_key": "F5"}
+	]
+}
