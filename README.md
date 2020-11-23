@@ -9,7 +9,7 @@ Cutting 和 Boxing 分别是金蝶里面的砍树和打拳，需要把所有ui�
 Auto Key 要自己配置skill_list文件，总循环由Caps控制，开启总循环后会一直循环里面的技能，不开总循环的话一次会打一套技能，打完有提示音，刷图挂机必备 👍 
 
 
-A collection of FF14 AIDS, including kingbutterfly inside punching, tree cutting, and auto keys etc.
+A collection of FF14 AIDS, including Gold Saucer inside punching, tree cutting, and auto keys etc.
 
 Please download executable files in Release
 
